@@ -9,4 +9,4 @@ c.beginPath();
 c.moveTo(0, window.innerHeight / 2);
 c.lineTo(window.innerWidth , window.innerHeight / 2);
 
-c.stroke();
+//c.stroke();
