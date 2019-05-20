@@ -74,7 +74,4 @@ animation();
 
 
 
-<<<<<<< HEAD
 c.stroke();
-=======
->>>>>>> dev
